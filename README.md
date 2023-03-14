@@ -1,4 +1,4 @@
-# Project Title
+# Swift Coding Interview School
 
 Simple overview of use/purpose.
 
