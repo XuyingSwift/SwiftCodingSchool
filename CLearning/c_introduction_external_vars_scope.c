@@ -1,0 +1,3 @@
+/*
+    Each local variable in a function comes into existence only when the function 
+*/
