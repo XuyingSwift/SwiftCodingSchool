@@ -1,4 +1,4 @@
-# Project Title
+# Swift Coding School
 
 Simple overview of use/purpose.
 
