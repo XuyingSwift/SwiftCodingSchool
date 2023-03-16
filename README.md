@@ -1,4 +1,4 @@
-# Swift Coding Interview School
+# Swift Coding School
 
 Simple overview of use/purpose.
 
