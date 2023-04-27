@@ -1,0 +1,27 @@
+# Program are collections of instructions that manipulate data into a sesired result.
+
+###### Objects and Variables ############
+# RAM short for random access memory, that is available for your program to use. 
+# You can think of RAM as series of numbered mailboxes that can each be used to hold a piece of data while the program is running. 
+
+# Value: a single piece of data, stored in memory somewhere.
+# Object: an object is region of storage usually memory that has a value and other associated properties. 
+# Objects can be named or unnamed, named object is called a variable, and the name of the object is called an identifier.
+
+# Question 1: What is data?
+Data is any information that can be moved, processed, stored by a computer.
+
+#Question 2: What is a value?
+A value is a single piece of data stored in memory.
+
+# Question 3: 
+A variable is a named region of memory.
+
+# Question 4: What is an identifier?
+An identifier is the name that a vairable is accessed by.
+
+# Question 5: What is type?
+A type tells the program how to interpret a value in memory.
+
+#Question 6: What is an integer?
+An integer is a number that can be written without a fractional componenet.
