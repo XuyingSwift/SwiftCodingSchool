@@ -10,4 +10,8 @@
 
  modified -> git marks file -> staged -> snapshot created -> Committed
 
- 
+git reset --soft HEAD~1
+
+--soft flag changes the state of the commiteed files to staged. 
+git status
+
