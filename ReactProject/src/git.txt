@@ -1,0 +1,13 @@
+ A Git snapshot is the state of the project files at a certain point in time. 
+ Instead of maintaining a record of file-based changes that orcur over time, Git will store that data as a snapshot, which is the entire state of the project at that particular moment. 
+ While saving the snapshot, it will keep those files that did get updated and only keep references of files that didn't change from the previous snapshot to avoid duplicates. 
+
+ Git states: Git has three primary states that it allows the projects files to acuire. 
+
+ 1: modified: files that have been changed, but the changes have not yet been marked by Git. These changes won't become part of the next snapshot.
+ 2: Staged: the chagnes have been tracked by Git and will be marked as such in the next snapshot.
+ 3: Committed: the changes files that have successfully become part of the lasted snapshot.
+
+ modified -> git marks file -> staged -> snapshot created -> Committed
+
+ 
